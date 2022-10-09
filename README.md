@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattiabress my real name is Mattia Bressan
+- 👋 Hi, I’m @mattiabress and my real name is Mattia Bressan
 - 👀 I'm interested in everything related to Engineering and Information technology
 - 🌱 I’m currently finishing my last exams
 - 💞️ I’m looking to collaborate on DIP project or RL project 
