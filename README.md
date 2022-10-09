@@ -3,8 +3,10 @@
 - 🌱 I’m currently finishing my last exams
 - 💞️ I’m looking to collaborate on DIP project or RL project 
 - 📫 How to reach me? You can contact me or using linkedin or send me an email
+
 Now I'm an student of Computer and electronic engineering, my courses are related to Artificial intelligence and robotics. 
 Some courses:
+
 - Computer vision (CV)
 - Machine Learning (ML)
 - Reinforcement Learning (RL)
