@@ -13,7 +13,7 @@ Some courses:
 - Digital Image Processing (DIP)
 - Digital Signal Processing (DSP)
 
-Nowadays I'm doing a thesis in DIP  
+Nowadays I'm doing a thesis in DIP 
 
 <!---
 mattiabress/mattiabress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
