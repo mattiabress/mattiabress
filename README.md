@@ -4,8 +4,8 @@
 - 📫 How to reach me? You can contact me using linkedin or send me an email
 <!---
 - 💞️ I’m looking to collaborate on DIP project or RL project  -->
-Now I'm an student of Computer and electronic engineering, my courses are related to Artificial intelligence and robotics. 
-Some courses:
+I am a Software Engineer, with a master's degree in Computer and Electronic Engineering, curriculum in Artificial Intelligence and Robotics. 
+Some of my courses were related to:
 
 - Computer vision (CV)
 - Machine Learning (ML)
@@ -13,7 +13,7 @@ Some courses:
 - Digital Image Processing (DIP)
 - Digital Signal Processing (DSP)
 
-Nowadays I'm doing a thesis in DIP 
+At the moment I work in Electrolux as a firmware engineer
 
 <!---
 mattiabress/mattiabress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
