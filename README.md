@@ -13,7 +13,7 @@ Some of my courses were related to:
 - Digital Image Processing (DIP)
 - Digital Signal Processing (DSP)
 
-At the moment I work in Electrolux as a firmware engineer
+At the moment I work in Electrolux as a consultant with Brain-tech as a firmware engineer
 
 <!---
 mattiabress/mattiabress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
